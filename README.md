@@ -1,4 +1,4 @@
-# PDF Classification App
+# PARSPEC Product Classification System
 
 This project is a Streamlit application that classifies PDF documents into one of four categories: Lighting, Fuses, Cables, Others. It extracts text from a provided PDF URL, preprocesses the text, and uses a machine learning model to classify the document.
 
@@ -60,10 +60,8 @@ This project is a Streamlit application that classifies PDF documents into one o
 
 ## Project Output
 
-<video width="320" height="240" controls>
-  <source src="images/project_output.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Project Output](images/project_output.png)](https://drive.google.com/file/d/1WtxAbMczafr_hVm_U-ZQgEvPY8o2Walh/view?usp=drive_link)
+
 
 ## Project Deployment and Scalability
 
